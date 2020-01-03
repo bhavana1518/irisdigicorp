@@ -1,9 +1,9 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
 
 const About = () => (
   <>
-  <h1>About</h1>
-  <p>about</p>
+  <h1>About this website</h1>
   </>
 );
 

@@ -1,9 +1,9 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
 
 const Contact = () => (
   <>
-  <h1>Contact Us</h1>
-  <p>Contact</p>
+  <h1>Contact us for more information</h1>
   </>
 );
 
